@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap');
+.logo-width {
+  width: 16%;
+}
+.color-caption{
+    color: #3468a6;
+}
+.margin-left-25{
+    margin-left:25vh;
+}
+.container-max-width {
+  max-width: 1700px;
+}
+.font-family-popins{
+     font-family: "Poppins", sans-serif;
+}
+.carousel-height {
+  height: 30vh;
+}
+.padding-top-25 {
+  padding-top: 25px;
+}
+.font-family-assistant{
+    font-family: 'Assistant', sans-serif;
+}
+.padding-top-30 {
+  padding-top: 30px;
+}
+.width-33 {
+  width: 33%;
+}
+.height-20{
+    height:20vh;
+}
+.margin-top-2 {
+  margin-top: 2vh;
+}
+.margin-top-15 {
+  margin-top: 15vh;
+}
+.navbar-background {
+  background-color: #3468a6;
+}
+.justify-space-around {
+  justify-content: space-around;
+}
+.card-height {
+  height: 30vh;
+}
+.card-image-width {
+  width: 55%;
+}
+.padding-top-10{
+    padding-top:10px;
+}
+.item-height{
+    height:35vh;
+}
+.carousel-content-1 {
+  font-size: 50px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+.content-sub {
+  padding-top: 16px;
+}
+.padding-left-12{
+    padding-left:12vh;
+}
+.padding-left{
+    padding-left:65px;
+}
+.carousel-inner {
+  background-color:#79dafb;
+}
+.card-padding{
+    padding:15px 15px 15px 15px;
+}
+.margin-left-10{
+    margin-left:10vh;
+}
+.place-padding{
+    padding: 0px 0px 0px 6px;
+}
+.card-text-height{
+    height:5vh;
+}
+.place-height-9vh{
+    height:9vh;
+}
+.padding-left-30{
+    padding-left:30px;
+}
+
+.padding-top-4{
+padding-top:4vh;
+}
+.padding-bottom-4{
+    padding-bottom:4vh;
+}
+li a {
+    color:white;
+}
+.carousel-item {
+  padding: 0px 25px 0px 25px;
+  justify-content: space-evenly;
+}
+
+.categories-head {
+  padding-top: 6vh;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+}
+.navbar-nav {
+  width: 45vh;
+  justify-content: space-evenly;   
+}
+
+.card-body {
+  font-family: "Poppins", sans-serif;
+}
+.footer-brand{
+    font-size:40px;
+    color:white;
+    font-weight:bold;
+}
+
+.open{
+    color:#3ad849;
+    padding-left:15px;
+}
+.closed{
+    padding-left:15px;
+    color:red;
+}
+
+.footer{
+    height:20vh;
+    background-color: #3468a6;
+}
+
+.menu_button{
+    background-color: #3468a6;
+    padding: 8px;
+    color: white;
+    border: none;
+    font-family: 'Assistant', sans-serif;
+    font-weight:bold;
+}
+
+.show-items{
+    width:100%;
+    background-color:#eeeeee;
+}
+
+.item-image{
+     width: 85%;
+    height: 20vh;
+    border-radius:10px;
+}
